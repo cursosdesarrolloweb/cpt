@@ -1,3 +1,3 @@
 <?php
 
-echo "Cursosdesarrolloweb";
+echo "Cursosdesarrolloweb updated";
